@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "food-delivery-app",
+    "slug": "food-delivery-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+
+      }
+    },
+    "web": {
+
+    }
+  }
+}
